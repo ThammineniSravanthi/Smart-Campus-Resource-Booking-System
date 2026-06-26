@@ -16,4 +16,4 @@ The Smart Campus Resource Booking System is a ServiceNow application developed t
 
 ## Author
 
-Thammineni Venkata Sravanthi
+ Sravanthi Thammineni 
