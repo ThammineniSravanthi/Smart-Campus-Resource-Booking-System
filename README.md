@@ -6,7 +6,7 @@ The Smart Campus Resource Booking System is a ServiceNow application developed t
 
 ## Project Documentation
 
-📄 [Project Documentation (Word)](Project_Documentation.docx)
+📄 [Project Documentation (pdf)](Project_Documentation.pdf)
 
 ## Repository Contents
 
